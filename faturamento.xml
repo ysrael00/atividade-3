@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faturamento>
+    <dia>
+        <valor>100</valor>
+    </dia>
+    <dia>
+        <valor>200</valor>
+    </dia>
+    <dia>
+        <valor>150</valor>
+    </dia>
+    <dia>
+        <valor>0</valor> 
+    </dia>
+    <dia>
+        <valor>300</valor>
+    </dia>
+    <dia>
+        <valor>0</valor> 
+    <dia>
+        <valor>400</valor>
+    </dia>
+    <dia>
+        <valor>350</valor>
+    </dia>
+    <dia>
+        <valor>0</valor> 
+    </dia>
+    <dia>
+        <valor>250</valor>
+    </dia>
+</faturamento>
